@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "citizens": "For Citizens",
+    "municipalities": "For Municipalities",
+    "impact": "Impact",
+    "help": "Help",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "badge": "Civic Tech for Cleaner Cities",
+    "titleLine1": "Your City,",
+    "titleLine2": "Cleaner Together",
+    "description": "SETAL connects citizens with municipalities to solve urban waste problems. Report issues instantly, track progress in real-time, and watch your community transform.",
+    "googlePlay": "Google Play",
+    "documentation": "Documentations",
+    "imageAlt": "Citizen reporting and municipal team resolving waste issues",
+    "trustIndicators": {
+      "free": "Free to use",
+      "secure": "Data secure",
+      "cities": "50+ cities"
+    },
+    "floatingCard": {
+      "reported": "Issue Reported",
+      "justNow": "Just now",
+      "resolved": "Resolved!",
+      "hoursAgo": "2 hours ago"
+    },
+    "scrollToExplore": "Scroll to explore",
+    "title": "Clean Cities Start Here",
+    "subtitle": "Report waste, track cleanup, and make your city cleaner with SETAL",
+    "ctaReport": "Report Waste",
+    "ctaLearnMore": "Learn More"
+  },
+  "citizenFeatures": {
+    "badge": "For Citizens",
+    "titlePart1": "Empowering",
+    "titlePart2": "every resident",
+    "subtitle": "Your voice matters. SETAL gives you the tools to make a real difference in your neighborhood.",
+    "features": {
+      "snapReport": {
+        "title": "Snap & Report in Seconds",
+        "description": "Take a photo, add a brief description, and submit. And categorize your report.",
+        "longDescription": "Our intuitive interface makes reporting issues effortless. Simply capture the problem with your phone's camera, add relevant details, select the appropriate category, and submit. The entire process takes less than a minute, ensuring you can quickly report issues without disrupting your day."
+      },
+      "realTimeTracking": {
+        "title": "Real-time Tracking",
+        "description": "Follow your report's journey from submission to resolution with live status updates.",
+        "longDescription": "Stay informed every step of the way with our real-time tracking system. Receive instant notifications when your report is acknowledged, assigned to a team, being worked on, and finally resolved. You'll never wonder about the status of your submission again."
+      },
+      "impactMap": {
+        "title": "City Impact Map",
+        "description": "Visualize all resolved issues in your area. See the collective impact of citizen participation.",
+        "longDescription": "Explore an interactive map showcasing all resolved issues in your neighborhood and across the city. Watch as your community transforms over time, and see the tangible results of civic engagement. The map provides insights into problem areas and improvements in real-time."
+      },
+      "communityTogether": {
+        "title": "Community Together",
+        "description": "Join neighbors in improving your district. Celebrate wins and see your community transform.",
+        "longDescription": "Connect with fellow residents who care about your neighborhood. See what others are reporting, support their submissions, and collaborate on community improvements. Together, we create stronger, more responsive communities."
+      },
+      "liveStatus": {
+        "title": "Live Status Monitoring",
+        "description": "Municipalities can monitor every report's status in real time, track progress, and ensure issues are resolved efficiently.",
+        "longDescription": "Municipal teams have access to powerful dashboards that display all incoming reports, assign tasks to relevant departments, track resolution times, and analyze trends. This ensures accountability and helps prioritize resources where they're needed most."
+      },
+      "privacyProtected": {
+        "title": "Privacy Protected",
+        "description": "Your personal data stays safe. Report anonymously if you prefer.",
+        "longDescription": "We take your privacy seriously. All reports are encrypted, and you have full control over what information you share. Choose to report anonymously or include contact details for follow-up. Your data is never sold or shared with third parties."
+      }
+    },
+    "videoNotSupported": "Your browser does not support the video tag.",
+    "availableNow": "Available Now",
+    "getItOn": "Get it on"
+  },
+  "howItWorks": {
+    "badge": "How It Works",
+    "titlePart1": "Three steps to a",
+    "titlePart2": "cleaner city",
+    "subtitle": "From spotting an issue to seeing it resolved – the entire process is transparent and efficient.",
+    "step1": {
+      "title": "Snap & Report",
+      "description": "See waste or an urban issue? Take a photo, select a category, and submit in seconds. Your location is automatically captured.",
+      "submitButton": "Submit"
+    },
+    "step2": {
+      "title": "Real-time Monitoring",
+      "description": "Your report is categorized and instantly sent to the right municipal team."
+    },
+    "step3": {
+      "title": "Issue Resolved",
+      "description": "The team takes action and you get notified. See before & after photos and rate the resolution.",
+      "resolutionRated": "Resolution rated"
+    },
+    "title": "How It Works",
+    "subtitle": "Simple steps to make a difference"
+  },
+  "impact": {
+    "title": "Real Impact, Real Results",
+    "subtitle": "Together, we're making a difference",
+    "reportsSubmitted": "Reports Submitted",
+    "cleanedUp": "Cleaned Up",
+    "activeCitizens": "Active Citizens",
+    "citiesParticipating": "Cities Participating"
+  },
+  "impactStats": {
+    "badge": "Making an Impact",
+    "titlePart1": "Real results,",
+    "titlePart2": "measurable change",
+    "subtitle": "Together, citizens and municipalities are transforming urban environments across the globe.",
+    "stats": {
+      "reportsResolved": {
+        "label": "Reports Resolved",
+        "description": "Issues fixed across all cities"
+      },
+      "avgResponseTime": {
+        "label": "Avg Response Time",
+        "description": "From report to action",
+        "suffix": "hrs"
+      },
+      "cities": {
+        "label": "Cities Using SETAL",
+        "description": "And growing every month"
+      },
+      "wasteRemoved": {
+        "label": "Waste Removed",
+        "description": "Tons of waste properly disposed"
+      }
+    },
+    "trustedBy": "Trusted by municipalities worldwide"
+  },
+  "municipality": {
+    "title": "For Municipalities",
+    "subtitle": "Powerful tools to manage waste efficiently",
+    "dashboard": {
+      "title": "Dashboard",
+      "pendingReports": "Pending Reports",
+      "inProgress": "In Progress",
+      "completedToday": "Completed Today",
+      "avgResponseTime": "Avg Response Time",
+      "hours": "hours",
+      "recentReports": "Recent Reports",
+      "status": "Status",
+      "location": "Location",
+      "priority": "Priority",
+      "viewDetails": "View Details"
+    },
+    "statuses": {
+      "pending": "Pending",
+      "inProgress": "In Progress",
+      "completed": "Completed"
+    },
+    "priorities": {
+      "high": "High",
+      "medium": "Medium",
+      "low": "Low"
+    }
+  },
+  "municipalityDashboard": {
+    "badge": "For Municipalities",
+    "titlePart1": "Transform your",
+    "titlePart2": "waste management",
+    "subtitle": "SETAL provides municipalities with powerful tools to manage citizen reports, optimize team workflows, and deliver measurable improvements in city cleanliness.",
+    "features": {
+      "centralized": {
+        "title": "Centralized Management",
+        "description": "All citizen reports in one unified dashboard. Filter, search, and manage with ease."
+      },
+      "teamAssignment": {
+        "title": "Team Assignment",
+        "description": "Route issues to the right teams automatically. Track workload and optimize resources."
+      },
+      "analytics": {
+        "title": "Performance Analytics",
+        "description": "Measure response times, resolution rates, and citizen satisfaction in real-time."
+      },
+      "slaTracking": {
+        "title": "SLA Tracking",
+        "description": "Set and monitor service level agreements. Never miss a deadline again."
+      }
+    },
+    "dashboard": {
+      "title": "Municipal Dashboard",
+      "cityExample": "City of Springfield",
+      "live": "Live"
+    },
+    "stats": {
+      "active": "Active",
+      "inProgress": "In Progress",
+      "resolvedToday": "Resolved Today",
+      "satisfaction": "Satisfaction"
+    },
+    "reportTypes": {
+      "illegalDumping": "Illegal Dumping",
+      "overflowingBin": "Overflowing Bin",
+      "streetLitter": "Street Litter"
+    },
+    "timeAgo": {
+      "min5": "5 min ago",
+      "min12": "12 min ago",
+      "min18": "18 min ago"
+    },
+    "assign": "Assign",
+    "responseTime": "Response Time"
+  },
+  "beforeAfter": {
+    "badge": "See The Difference",
+    "titlePart1": "Real transformations,",
+    "titlePart2": "real impact",
+    "subtitle": "Slide to see how SETAL helps communities reclaim their spaces.",
+    "before": "Before",
+    "after": "After",
+    "beforeAlt": "Before cleanup",
+    "afterAlt": "After cleanup",
+    "testimonials": {
+      "heading": "What people are saying",
+      "citizen": {
+        "quote": "I reported an illegal dump site and it was cleaned up within 24 hours. Amazing!",
+        "author": "Maria S.",
+        "role": "Citizen, Park District"
+      },
+      "director": {
+        "quote": "SETAL helped us reduce response times by 60% and improve citizen satisfaction scores dramatically.",
+        "author": "James Chen",
+        "role": "Waste Management Director"
+      }
+    },
+    "title": "See the Difference",
+    "subtitle": "Real transformations in our communities"
+  },
+  "finalCTA": {
+    "titlePart1": "Ready to make your city",
+    "titlePart2": "cleaner?",
+    "subtitle": "Join thousands of citizens and dozens of municipalities already transforming their communities with SETAL.",
+    "forCitizens": {
+      "heading": "For Citizens",
+      "description": "Download the app and start reporting issues in your neighborhood today."
+    },
+    "forMunicipalities": {
+      "heading": "For Municipalities",
+      "description": "Get a demo of the platform and see how SETAL can transform your city."
+    },
+    "trustIndicators": {
+      "freeCitizens": "Free for citizens",
+      "gdpr": "GDPR compliant",
+      "noCreditCard": "No credit card required",
+      "support247": "24/7 support"
+    },
+    "title": "Ready to Make a Difference?",
+    "subtitle": "Join thousands of citizens creating cleaner communities",
+    "downloadApp": "Download the App",
+    "contactUs": "Contact Us"
+  },
+  "footer": {
+    "tagline": "Making cities cleaner, one report at a time",
+    "product": "Product",
+    "features": "Features",
+    "municipalities": "For Municipalities",
+    "pricing": "Pricing",
+    "company": "Company",
+    "about": "About Us",
+    "blog": "Blog",
+    "careers": "Careers",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "allRightsReserved": "All rights reserved"
+  },
+  "help": {
+    "title": "Help Center",
+    "subtitle": "Find answers to common questions",
+    "searchPlaceholder": "Search for help...",
+    "faq": "Frequently Asked Questions",
+    "contact": "Contact Support",
+    "guides": "User Guides"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you're looking for doesn't exist",
+    "backHome": "Back to Home"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "yes": "Yes",
+    "no": "No"
+  }
+}

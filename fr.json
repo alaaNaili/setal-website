@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "features": "Fonctionnalités",
+    "howItWorks": "Comment ça marche",
+    "citizens": "Pour les citoyens",
+    "municipalities": "Pour les municipalités",
+    "impact": "Impact",
+    "help": "Aide",
+    "contact": "Contact",
+    "getStarted": "Commencer"
+  },
+  "hero": {
+    "badge": "Technologie civique pour des villes plus propres",
+    "titleLine1": "Votre ville,",
+    "titleLine2": "Plus propre ensemble",
+    "description": "SETAL connecte les citoyens aux municipalités pour résoudre les problèmes de déchets urbains. Signalez les problèmes instantanément, suivez les progrès en temps réel et regardez votre communauté se transformer.",
+    "googlePlay": "Google Play",
+    "documentation": "Documentations",
+    "imageAlt": "Citoyen signalant et équipe municipale résolvant les problèmes de déchets",
+    "trustIndicators": {
+      "free": "Gratuit",
+      "secure": "Données sécurisées",
+      "cities": "50+ villes"
+    },
+    "floatingCard": {
+      "reported": "Problème signalé",
+      "justNow": "À l'instant",
+      "resolved": "Résolu !",
+      "hoursAgo": "Il y a 2 heures"
+    },
+    "scrollToExplore": "Faire défiler pour explorer",
+    "title": "Des villes propres commencent ici",
+    "subtitle": "Signalez les déchets, suivez le nettoyage et rendez votre ville plus propre avec SETAL",
+    "ctaReport": "Signaler des déchets",
+    "ctaLearnMore": "En savoir plus"
+  },
+  "citizenFeatures": {
+    "badge": "Pour les citoyens",
+    "titlePart1": "Responsabiliser",
+    "titlePart2": "chaque résident",
+    "subtitle": "Votre voix compte. SETAL vous donne les outils pour faire une vraie différence dans votre quartier.",
+    "features": {
+      "snapReport": {
+        "title": "Photographier et signaler en quelques secondes",
+        "description": "Prenez une photo, ajoutez une brève description et soumettez. Catégorisez votre signalement.",
+        "longDescription": "Notre interface intuitive rend le signalement des problèmes sans effort. Il suffit de capturer le problème avec l'appareil photo de votre téléphone, d'ajouter les détails pertinents, de sélectionner la catégorie appropriée et de soumettre. L'ensemble du processus prend moins d'une minute, vous permettant de signaler rapidement les problèmes sans perturber votre journée."
+      },
+      "realTimeTracking": {
+        "title": "Suivi en temps réel",
+        "description": "Suivez le parcours de votre signalement de la soumission à la résolution avec des mises à jour en direct.",
+        "longDescription": "Restez informé à chaque étape grâce à notre système de suivi en temps réel. Recevez des notifications instantanées lorsque votre signalement est reconnu, assigné à une équipe, en cours de traitement et finalement résolu. Vous ne vous demanderez plus jamais quel est le statut de votre soumission."
+      },
+      "impactMap": {
+        "title": "Carte d'impact de la ville",
+        "description": "Visualisez tous les problèmes résolus dans votre région. Voyez l'impact collectif de la participation citoyenne.",
+        "longDescription": "Explorez une carte interactive présentant tous les problèmes résolus dans votre quartier et dans toute la ville. Regardez votre communauté se transformer au fil du temps et voyez les résultats tangibles de l'engagement civique. La carte fournit des informations sur les zones problématiques et les améliorations en temps réel."
+      },
+      "communityTogether": {
+        "title": "Communauté ensemble",
+        "description": "Rejoignez vos voisins pour améliorer votre quartier. Célébrez les victoires et voyez votre communauté se transformer.",
+        "longDescription": "Connectez-vous avec les résidents qui se soucient de votre quartier. Voyez ce que les autres signalent, soutenez leurs soumissions et collaborez aux améliorations communautaires. Ensemble, nous créons des communautés plus fortes et plus réactives."
+      },
+      "liveStatus": {
+        "title": "Surveillance de l'état en direct",
+        "description": "Les municipalités peuvent surveiller l'état de chaque signalement en temps réel, suivre les progrès et s'assurer que les problèmes sont résolus efficacement.",
+        "longDescription": "Les équipes municipales ont accès à des tableaux de bord puissants qui affichent tous les signalements entrants, assignent des tâches aux services concernés, suivent les délais de résolution et analysent les tendances. Cela garantit la responsabilité et aide à prioriser les ressources là où elles sont le plus nécessaires."
+      },
+      "privacyProtected": {
+        "title": "Confidentialité protégée",
+        "description": "Vos données personnelles restent en sécurité. Signalez de manière anonyme si vous préférez.",
+        "longDescription": "Nous prenons votre vie privée au sérieux. Tous les signalements sont cryptés et vous avez un contrôle total sur les informations que vous partagez. Choisissez de signaler de manière anonyme ou d'inclure des coordonnées pour un suivi. Vos données ne sont jamais vendues ou partagées avec des tiers."
+      }
+    },
+    "videoNotSupported": "Votre navigateur ne prend pas en charge la balise vidéo.",
+    "availableNow": "Disponible maintenant",
+    "getItOn": "Télécharger sur"
+  },
+  "howItWorks": {
+    "badge": "Comment ça marche",
+    "titlePart1": "Trois étapes vers une",
+    "titlePart2": "ville plus propre",
+    "subtitle": "De la détection d'un problème à sa résolution – l'ensemble du processus est transparent et efficace.",
+    "step1": {
+      "title": "Photographier et signaler",
+      "description": "Vous voyez des déchets ou un problème urbain ? Prenez une photo, sélectionnez une catégorie et soumettez en quelques secondes. Votre localisation est automatiquement capturée.",
+      "submitButton": "Soumettre"
+    },
+    "step2": {
+      "title": "Suivi en temps réel",
+      "description": "Votre signalement est catégorisé et envoyé instantanément à l'équipe municipale appropriée."
+    },
+    "step3": {
+      "title": "Problème résolu",
+      "description": "L'équipe intervient et vous êtes notifié. Consultez les photos avant et après et évaluez la résolution.",
+      "resolutionRated": "Résolution évaluée"
+    },
+    "title": "Comment ça marche",
+    "subtitle": "Des étapes simples pour faire la différence"
+  },
+  "impact": {
+    "title": "Impact réel, résultats réels",
+    "subtitle": "Ensemble, nous faisons la différence",
+    "reportsSubmitted": "Signalements soumis",
+    "cleanedUp": "Nettoyés",
+    "activeCitizens": "Citoyens actifs",
+    "citiesParticipating": "Villes participantes"
+  },
+  "impactStats": {
+    "badge": "Faire un impact",
+    "titlePart1": "Résultats réels,",
+    "titlePart2": "changement mesurable",
+    "subtitle": "Ensemble, citoyens et municipalités transforment les environnements urbains à travers le monde.",
+    "stats": {
+      "reportsResolved": {
+        "label": "Signalements résolus",
+        "description": "Problèmes résolus dans toutes les villes"
+      },
+      "avgResponseTime": {
+        "label": "Temps de réponse moyen",
+        "description": "Du signalement à l'action",
+        "suffix": "h"
+      },
+      "cities": {
+        "label": "Villes utilisant SETAL",
+        "description": "Et en croissance chaque mois"
+      },
+      "wasteRemoved": {
+        "label": "Déchets retirés",
+        "description": "Tonnes de déchets correctement éliminés"
+      }
+    },
+    "trustedBy": "Approuvé par les municipalités du monde entier"
+  },
+  "municipality": {
+    "title": "Pour les municipalités",
+    "subtitle": "Des outils puissants pour gérer efficacement les déchets",
+    "dashboard": {
+      "title": "Tableau de bord",
+      "pendingReports": "Signalements en attente",
+      "inProgress": "En cours",
+      "completedToday": "Terminés aujourd'hui",
+      "avgResponseTime": "Temps de réponse moyen",
+      "hours": "heures",
+      "recentReports": "Signalements récents",
+      "status": "Statut",
+      "location": "Emplacement",
+      "priority": "Priorité",
+      "viewDetails": "Voir les détails"
+    },
+    "statuses": {
+      "pending": "En attente",
+      "inProgress": "En cours",
+      "completed": "Terminé"
+    },
+    "priorities": {
+      "high": "Haute",
+      "medium": "Moyenne",
+      "low": "Basse"
+    }
+  },
+  "municipalityDashboard": {
+    "badge": "Pour les municipalités",
+    "titlePart1": "Transformez votre",
+    "titlePart2": "gestion des déchets",
+    "subtitle": "SETAL fournit aux municipalités des outils puissants pour gérer les signalements des citoyens, optimiser les flux de travail des équipes et apporter des améliorations mesurables à la propreté de la ville.",
+    "features": {
+      "centralized": {
+        "title": "Gestion centralisée",
+        "description": "Tous les signalements citoyens dans un tableau de bord unifié. Filtrez, recherchez et gérez facilement."
+      },
+      "teamAssignment": {
+        "title": "Attribution d'équipe",
+        "description": "Routez automatiquement les problèmes vers les bonnes équipes. Suivez la charge de travail et optimisez les ressources."
+      },
+      "analytics": {
+        "title": "Analyses de performance",
+        "description": "Mesurez les temps de réponse, les taux de résolution et la satisfaction des citoyens en temps réel."
+      },
+      "slaTracking": {
+        "title": "Suivi des SLA",
+        "description": "Définissez et surveillez les accords de niveau de service. Ne manquez plus jamais une échéance."
+      }
+    },
+    "dashboard": {
+      "title": "Tableau de bord municipal",
+      "cityExample": "Ville de Springfield",
+      "live": "En direct"
+    },
+    "stats": {
+      "active": "Actifs",
+      "inProgress": "En cours",
+      "resolvedToday": "Résolus aujourd'hui",
+      "satisfaction": "Satisfaction"
+    },
+    "reportTypes": {
+      "illegalDumping": "Décharge illégale",
+      "overflowingBin": "Benne débordante",
+      "streetLitter": "Détritus de rue"
+    },
+    "timeAgo": {
+      "min5": "Il y a 5 min",
+      "min12": "Il y a 12 min",
+      "min18": "Il y a 18 min"
+    },
+    "assign": "Assigner",
+    "responseTime": "Temps de réponse"
+  },
+  "beforeAfter": {
+    "badge": "Voyez la différence",
+    "titlePart1": "Transformations réelles,",
+    "titlePart2": "impact réel",
+    "subtitle": "Faites glisser pour voir comment SETAL aide les communautés à récupérer leurs espaces.",
+    "before": "Avant",
+    "after": "Après",
+    "beforeAlt": "Avant le nettoyage",
+    "afterAlt": "Après le nettoyage",
+    "testimonials": {
+      "heading": "Ce que les gens disent",
+      "citizen": {
+        "quote": "J'ai signalé un site de décharge illégale et il a été nettoyé en 24 heures. Incroyable !",
+        "author": "Maria S.",
+        "role": "Citoyenne, Quartier du parc"
+      },
+      "director": {
+        "quote": "SETAL nous a aidés à réduire les temps de réponse de 60 % et à améliorer considérablement les scores de satisfaction des citoyens.",
+        "author": "James Chen",
+        "role": "Directeur de la gestion des déchets"
+      }
+    },
+    "title": "Voyez la différence",
+    "subtitle": "Transformations réelles dans nos communautés"
+  },
+  "finalCTA": {
+    "titlePart1": "Prêt à rendre votre ville",
+    "titlePart2": "plus propre ?",
+    "subtitle": "Rejoignez des milliers de citoyens et des dizaines de municipalités qui transforment déjà leurs communautés avec SETAL.",
+    "forCitizens": {
+      "heading": "Pour les citoyens",
+      "description": "Téléchargez l'application et commencez à signaler les problèmes dans votre quartier dès aujourd'hui."
+    },
+    "forMunicipalities": {
+      "heading": "Pour les municipalités",
+      "description": "Obtenez une démo de la plateforme et voyez comment SETAL peut transformer votre ville."
+    },
+    "trustIndicators": {
+      "freeCitizens": "Gratuit pour les citoyens",
+      "gdpr": "Conforme au RGPD",
+      "noCreditCard": "Aucune carte de crédit requise",
+      "support247": "Assistance 24h/24 et 7j/7"
+    },
+    "title": "Prêt à faire la différence ?",
+    "subtitle": "Rejoignez des milliers de citoyens créant des communautés plus propres",
+    "downloadApp": "Télécharger l'application",
+    "contactUs": "Contactez-nous"
+  },
+  "footer": {
+    "tagline": "Rendre les villes plus propres, un signalement à la fois",
+    "product": "Produit",
+    "features": "Fonctionnalités",
+    "municipalities": "Pour les municipalités",
+    "pricing": "Tarifs",
+    "company": "Entreprise",
+    "about": "À propos",
+    "blog": "Blog",
+    "careers": "Carrières",
+    "support": "Assistance",
+    "helpCenter": "Centre d'aide",
+    "contact": "Contact",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "allRightsReserved": "Tous droits réservés"
+  },
+  "help": {
+    "title": "Centre d'aide",
+    "subtitle": "Trouvez des réponses aux questions courantes",
+    "searchPlaceholder": "Rechercher de l'aide...",
+    "faq": "Questions fréquemment posées",
+    "contact": "Contacter l'assistance",
+    "guides": "Guides d'utilisation"
+  },
+  "notFound": {
+    "title": "Page non trouvée",
+    "description": "La page que vous recherchez n'existe pas",
+    "backHome": "Retour à l'accueil"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "close": "Fermer",
+    "yes": "Oui",
+    "no": "Non"
+  }
+}
