@@ -87,8 +87,8 @@
       "submitButton": "Soumettre"
     },
     "step2": {
-      "title": "Suivi en temps réel",
-      "description": "Votre signalement est catégorisé et envoyé instantanément à l'équipe municipale appropriée."
+      "title": "Routage intelligent",
+      "description": "Votre signalement est catégorisé et envoyé instantanément à l'équipe municipale appropriée. L'IA aide à prioriser les problèmes urgents."
     },
     "step3": {
       "title": "Problème résolu",
@@ -255,7 +255,47 @@
     "contactUs": "Contactez-nous"
   },
   "footer": {
-    "tagline": "Rendre les villes plus propres, un signalement à la fois",
+    "tagline": "Connecter les citoyens aux municipalités pour construire ensemble des villes plus propres et durables.",
+    "sections": {
+      "product": "Produit",
+      "company": "Entreprise",
+      "resources": "Ressources",
+      "legal": "Légal"
+    },
+    "links": {
+      "product": {
+        "howItWorks": "Comment ça marche",
+        "forCitizens": "Pour les citoyens",
+        "forMunicipalities": "Pour les municipalités",
+        "pricing": "Tarifs",
+        "caseStudies": "Études de cas"
+      },
+      "company": {
+        "about": "À propos",
+        "careers": "Carrières",
+        "press": "Presse",
+        "blog": "Blog",
+        "contact": "Contact"
+      },
+      "resources": {
+        "documentation": "Documentation",
+        "api": "API",
+        "community": "Communauté",
+        "helpCenter": "Centre d'aide",
+        "status": "État"
+      },
+      "legal": {
+        "privacy": "Politique de confidentialité",
+        "terms": "Conditions d'utilisation",
+        "cookie": "Politique des cookies",
+        "gdpr": "RGPD"
+      }
+    },
+    "allRightsReserved": "Tous droits réservés.",
+    "madeWith": {
+      "text": "Fait avec",
+      "purpose": "pour des villes plus propres"
+    },
     "product": "Produit",
     "features": "Fonctionnalités",
     "municipalities": "Pour les municipalités",
@@ -268,8 +308,7 @@
     "helpCenter": "Centre d'aide",
     "contact": "Contact",
     "privacy": "Politique de confidentialité",
-    "terms": "Conditions d'utilisation",
-    "allRightsReserved": "Tous droits réservés"
+    "terms": "Conditions d'utilisation"
   },
   "help": {
     "title": "Centre d'aide",

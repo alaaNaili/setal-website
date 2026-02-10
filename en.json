@@ -87,8 +87,8 @@
       "submitButton": "Submit"
     },
     "step2": {
-      "title": "Real-time Monitoring",
-      "description": "Your report is categorized and instantly sent to the right municipal team."
+      "title": "Smart Routing",
+      "description": "Your report is categorized and instantly sent to the right municipal team. AI helps prioritize urgent issues."
     },
     "step3": {
       "title": "Issue Resolved",
@@ -255,7 +255,47 @@
     "contactUs": "Contact Us"
   },
   "footer": {
-    "tagline": "Making cities cleaner, one report at a time",
+    "tagline": "Connecting citizens with municipalities to build cleaner, more sustainable cities together.",
+    "sections": {
+      "product": "Product",
+      "company": "Company",
+      "resources": "Resources",
+      "legal": "Legal"
+    },
+    "links": {
+      "product": {
+        "howItWorks": "How It Works",
+        "forCitizens": "For Citizens",
+        "forMunicipalities": "For Municipalities",
+        "pricing": "Pricing",
+        "caseStudies": "Case Studies"
+      },
+      "company": {
+        "about": "About Us",
+        "careers": "Careers",
+        "press": "Press",
+        "blog": "Blog",
+        "contact": "Contact"
+      },
+      "resources": {
+        "documentation": "Documentation",
+        "api": "API",
+        "community": "Community",
+        "helpCenter": "Help Center",
+        "status": "Status"
+      },
+      "legal": {
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "cookie": "Cookie Policy",
+        "gdpr": "GDPR"
+      }
+    },
+    "allRightsReserved": "All rights reserved.",
+    "madeWith": {
+      "text": "Made with",
+      "purpose": "for cleaner cities"
+    },
     "product": "Product",
     "features": "Features",
     "municipalities": "For Municipalities",
@@ -268,8 +308,7 @@
     "helpCenter": "Help Center",
     "contact": "Contact",
     "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "allRightsReserved": "All rights reserved"
+    "terms": "Terms of Service"
   },
   "help": {
     "title": "Help Center",
