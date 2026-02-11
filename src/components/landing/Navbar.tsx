@@ -14,7 +14,7 @@ const Navbar = () => {
     { label: t("nav.howItWorks"), href: "#how-it-works" },
     { label: t("nav.citizens"), href: "#citizens" },
     { label: t("nav.municipalities"), href: "#municipalities" },
-    { label: t("nav.impact"), href: "#impact" },
+    // { label: t("nav.impact"), href: "#impact" },
   ];
 
   useEffect(() => {

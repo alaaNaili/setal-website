@@ -1,12 +1,18 @@
 import { useTranslation } from "react-i18next";
 import { useState } from "react";
+import { useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Mail, Building2, CheckCircle } from "lucide-react";
 
 const FinalCTA = () => {
   const { t } = useTranslation();
+  const navigate = useNavigate();
   const [email, setEmail] = useState("");
   const [isSubmitted, setIsSubmitted] = useState(false);
+
+  const handleContactClick = () => {
+    navigate("/entity-selection");
+  };
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -75,7 +81,12 @@ const FinalCTA = () => {
                   {t('finalCTA.forMunicipalities.description')}
                 </p>
                 <form onSubmit={handleSubmit} className="space-y-3">
-                  <Button variant="default" className="w-full bg-secondary hover:bg-secondary/90">
+                  <Button 
+                    type="button"
+                    variant="default" 
+                    className="w-full bg-secondary hover:bg-secondary/90"
+                    onClick={handleContactClick}
+                  >
                     {t('nav.contact')}
                   </Button>
                 </form>

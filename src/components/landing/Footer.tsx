@@ -147,7 +147,7 @@ const Footer = () => {
         {/* Bottom bar */}
         <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-border pt-8 md:flex-row">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} SETAL. {t('footer.allRightsReserved')}
+            © {new Date().getFullYear()} S.E.T.A.L.. {t('footer.allRightsReserved')}
           </p>
           <div className="flex items-center gap-2 text-sm text-muted-foreground">
             <span>{t('footer.madeWith.text')}</span>

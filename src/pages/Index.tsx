@@ -23,9 +23,9 @@ const Index = () => {
         <section id="municipalities">
           <MunicipalityDashboard />
         </section>
-        <section id="impact">
+        {/* <section id="impact">
           <ImpactStats />
-        </section>
+        </section> */}
         <BeforeAfterSlider />
         <FinalCTA />
       </main>

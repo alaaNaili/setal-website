@@ -251,7 +251,7 @@ export default function HelpPage() {
               <div className="flex h-9 w-9 items-center justify-center overflow-hidden rounded-lg md:h-12 md:w-10">
                 <img
                   src="/SETAL.png"
-                  alt="Setal logo"
+                  alt="S.E.T.A.L. logo"
                   className="h-full w-full object-cover"
                 />
               </div>
