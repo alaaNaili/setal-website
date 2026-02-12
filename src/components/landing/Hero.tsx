@@ -78,7 +78,7 @@ const Hero = () => {
           <div className="relative animate-fade-in" style={{ animationDelay: "0.3s" }}>
             <div className="relative overflow-hidden rounded-2xl shadow-card">
               <img
-                src={heroImage}
+                src="/thumbnail.jpg"
                 alt={t('hero.imageAlt')}
                 className="h-auto w-full object-cover"
               />
