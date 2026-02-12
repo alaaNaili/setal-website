@@ -4,17 +4,16 @@
     "features": "Fonctionnalités",
     "howItWorks": "Comment ça marche",
     "citizens": "Pour les citoyens",
-    "municipalities": "Pour les municipalités",
+    "municipalities": "Pour les acteurs & partenaires",
     "impact": "Impact",
     "help": "Aide",
     "contact": "Contact",
     "getStarted": "Commencer"
   },
   "hero": {
-    "badge": "Technologie civique pour des villes plus propres",
-    "titleLine1": "Votre ville,",
+"badge": "SETAL – Système Écologique de Traçabilité et d'Assainissement Local",    "titleLine1": "Votre ville,",
     "titleLine2": "Plus propre ensemble",
-    "description": "SETAL connecte les citoyens aux municipalités pour résoudre les problèmes de déchets urbains. Signalez les problèmes instantanément, suivez les progrès en temps réel et regardez votre communauté se transformer.",
+    "description": "S.E.T.A.L. connecte les citoyens aux Acteurs & Partenaires pour résoudre les problèmes de déchets urbains. Signalez les problèmes instantanément, suivez les progrès en temps réel et regardez votre communauté se transformer.",
     "googlePlay": "Google Play",
     "documentation": "Documentations",
     "imageAlt": "Citoyen signalant et équipe municipale résolvant les problèmes de déchets",
@@ -31,7 +30,7 @@
     },
     "scrollToExplore": "Faire défiler pour explorer",
     "title": "Des villes propres commencent ici",
-    "subtitle": "Signalez les déchets, suivez le nettoyage et rendez votre ville plus propre avec SETAL",
+    "subtitle": "Signalez les déchets, suivez le nettoyage et rendez votre ville plus propre avec S.E.T.A.L.",
     "ctaReport": "Signaler des déchets",
     "ctaLearnMore": "En savoir plus"
   },
@@ -39,7 +38,7 @@
     "badge": "Pour les citoyens",
     "titlePart1": "Responsabiliser",
     "titlePart2": "chaque résident",
-    "subtitle": "Votre voix compte. SETAL vous donne les outils pour faire une vraie différence dans votre quartier.",
+    "subtitle": "Votre voix compte. S.E.T.A.L. vous donne les outils pour faire une vraie différence dans votre quartier.",
     "features": {
       "snapReport": {
         "title": "Photographier et signaler en quelques secondes",
@@ -63,7 +62,7 @@
       },
       "liveStatus": {
         "title": "Surveillance de l'état en direct",
-        "description": "Les municipalités peuvent surveiller l'état de chaque signalement en temps réel, suivre les progrès et s'assurer que les problèmes sont résolus efficacement.",
+        "description": "Les Acteurs & Partenaires de S.E.T.A.L. peuvent surveiller l'état de chaque signalement en temps réel, suivre les progrès et s'assurer que les problèmes sont résolus efficacement.",
         "longDescription": "Les équipes municipales ont accès à des tableaux de bord puissants qui affichent tous les signalements entrants, assignent des tâches aux services concernés, suivent les délais de résolution et analysent les tendances. Cela garantit la responsabilité et aide à prioriser les ressources là où elles sont le plus nécessaires."
       },
       "privacyProtected": {
@@ -86,10 +85,10 @@
       "description": "Vous voyez des déchets ou un problème urbain ? Prenez une photo, sélectionnez une catégorie et soumettez en quelques secondes. Votre localisation est automatiquement capturée.",
       "submitButton": "Soumettre"
     },
-    "step2": {
-      "title": "Routage intelligent",
-      "description": "Votre signalement est catégorisé et envoyé instantanément à l'équipe municipale appropriée. L'IA aide à prioriser les problèmes urgents."
-    },
+   "step2": {
+  "title": "Assignation et suivi opérationnel",
+  "description": "Le signalement est reçu par l'administration, qui l'assigne à un agent disponible. Le système permet un suivi en temps réel des déplacements et de l'avancement de l'intervention."
+},
     "step3": {
       "title": "Problème résolu",
       "description": "L'équipe intervient et vous êtes notifié. Consultez les photos avant et après et évaluez la résolution.",
@@ -110,7 +109,7 @@
     "badge": "Faire un impact",
     "titlePart1": "Résultats réels,",
     "titlePart2": "changement mesurable",
-    "subtitle": "Ensemble, citoyens et municipalités transforment les environnements urbains à travers le monde.",
+    "subtitle": "Ensemble, citoyens et partenaires transforment les environnements urbains à travers le monde.",
     "stats": {
       "reportsResolved": {
         "label": "Signalements résolus",
@@ -122,7 +121,7 @@
         "suffix": "h"
       },
       "cities": {
-        "label": "Villes utilisant SETAL",
+        "label": "Villes utilisant S.E.T.A.L.",
         "description": "Et en croissance chaque mois"
       },
       "wasteRemoved": {
@@ -133,7 +132,7 @@
     "trustedBy": "Approuvé par les municipalités du monde entier"
   },
   "municipality": {
-    "title": "Pour les municipalités",
+    "title": "Pour les Acteurs & Partenaires de S.E.T.A.L.",
     "subtitle": "Des outils puissants pour gérer efficacement les déchets",
     "dashboard": {
       "title": "Tableau de bord",
@@ -160,10 +159,10 @@
     }
   },
   "municipalityDashboard": {
-    "badge": "Pour les municipalités",
+    "badge": "Pour les Acteurs & Partenaires de S.E.T.A.L.",
     "titlePart1": "Transformez votre",
     "titlePart2": "gestion des déchets",
-    "subtitle": "SETAL fournit aux municipalités des outils puissants pour gérer les signalements des citoyens, optimiser les flux de travail des équipes et apporter des améliorations mesurables à la propreté de la ville.",
+    "subtitle": "S.E.T.A.L. fournit à ses partenaires des outils puissants pour gérer les signalements des citoyens, optimiser les flux de travail des équipes et apporter des améliorations mesurables à la propreté de la ville.",
     "features": {
       "centralized": {
         "title": "Gestion centralisée",
@@ -210,7 +209,7 @@
     "badge": "Voyez la différence",
     "titlePart1": "Transformations réelles,",
     "titlePart2": "impact réel",
-    "subtitle": "Faites glisser pour voir comment SETAL aide les communautés à récupérer leurs espaces.",
+    "subtitle": "Faites glisser pour voir comment S.E.T.A.L. aide les communautés à récupérer leurs espaces.",
     "before": "Avant",
     "after": "Après",
     "beforeAlt": "Avant le nettoyage",
@@ -223,7 +222,7 @@
         "role": "Citoyenne, Quartier du parc"
       },
       "director": {
-        "quote": "SETAL nous a aidés à réduire les temps de réponse de 60 % et à améliorer considérablement les scores de satisfaction des citoyens.",
+        "quote": "S.E.T.A.L. nous a aidés à réduire les temps de réponse de 60 % et à améliorer considérablement les scores de satisfaction des citoyens.",
         "author": "James Chen",
         "role": "Directeur de la gestion des déchets"
       }
@@ -234,14 +233,13 @@
   "finalCTA": {
     "titlePart1": "Prêt à rendre votre ville",
     "titlePart2": "plus propre ?",
-    "subtitle": "Rejoignez des milliers de citoyens et des dizaines de municipalités qui transforment déjà leurs communautés avec SETAL.",
-    "forCitizens": {
+     "forCitizens": {
       "heading": "Pour les citoyens",
       "description": "Téléchargez l'application et commencez à signaler les problèmes dans votre quartier dès aujourd'hui."
     },
     "forMunicipalities": {
-      "heading": "Pour les municipalités",
-      "description": "Obtenez une démo de la plateforme et voyez comment SETAL peut transformer votre ville."
+      "heading": "Pour les Acteurs & Partenaires de S.E.T.A.L.",
+      "description": "Contactez-nous pour un devis personnalisé et modernisez la gestion de vos opérations d’assainissement avec S.E.T.A.L."
     },
     "trustIndicators": {
       "freeCitizens": "Gratuit pour les citoyens",
@@ -255,7 +253,7 @@
     "contactUs": "Contactez-nous"
   },
   "footer": {
-    "tagline": "Connecter les citoyens aux municipalités pour construire ensemble des villes plus propres et durables.",
+    "tagline": "Connecter les citoyens aux acteurs & partenaires de S.E.T.A.L. pour construire ensemble des villes plus propres et durables.",
     "sections": {
       "product": "Produit",
       "company": "Entreprise",
@@ -266,7 +264,7 @@
       "product": {
         "howItWorks": "Comment ça marche",
         "forCitizens": "Pour les citoyens",
-        "forMunicipalities": "Pour les municipalités",
+        "forMunicipalities": "Pour les partenaires",
         "pricing": "Tarifs",
         "caseStudies": "Études de cas"
       },
@@ -298,7 +296,7 @@
     },
     "product": "Produit",
     "features": "Fonctionnalités",
-    "municipalities": "Pour les municipalités",
+    "municipalities": "Pour les partenaires",
     "pricing": "Tarifs",
     "company": "Entreprise",
     "about": "À propos",
@@ -333,6 +331,35 @@
     "edit": "Modifier",
     "close": "Fermer",
     "yes": "Oui",
-    "no": "Non"
+    "no": "Non",
+   "back": "Retour"
+  },
+  "entitySelection": {
+    "title": "NOS PARTENAIRES POUR UN PAYS PLUS PROPRE",
+    "subtitle": "S.E.T.A.L. fédère l'ensemble des acteurs publics, privés et communautaires autour d'un même outil de gestion transparente des déchets.",
+    "selectButton": "Choisir",
+    "helpText": "Besoin d'aide ? Contactez-nous à contact@setal.app",
+    "entities": {
+      "pme": "PME / Commerces",
+      "municipalities": "Municipalités & Collectivités",
+      "collection": "Entreprises Collecte & Compostage",
+      "ministries": "Ministères & Agences Gouvernementales",
+      "ngos": "ONG Internationales & Coopération",
+      "economicZones": "Zones Économiques & Parcs Industriels",
+      "events": "Grands Événements & Infrastructures",
+      "enterprises": "Grandes Entreprises (RSE)",
+      "consortiums": "Consortiums & PPP"
+    }
+  },
+  "questionnaire": {
+    "title": "Formulaire de Contact",
+    "subtitle": "Veuillez remplir les informations ci-dessous. Les champs marqués d'un * sont obligatoires.",
+    "submit": "Envoyer le formulaire",
+    "cancel": "Annuler",
+    "submitting": "Envoi en cours...",
+    "success": {
+      "title": "Formulaire envoyé avec succès !",
+      "message": "Nous vous contacterons bientôt. Redirection en cours..."
+    }
   }
 }
