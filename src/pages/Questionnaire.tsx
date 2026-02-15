@@ -125,7 +125,7 @@ const formConfigs: Record<string, Array<{
       ]
     },
     {
-      section: "INTÉGRATION SETAL",
+      section: "INTÉGRATION S.E.T.A.L.",
       fields: [
         { id: "routeOptimization", label: "Optimisation des routes souhaitée ?", type: "select", required: true, options: ["Oui", "Non"] },
         { id: "mobileBilling", label: "Facturation via Orange Money / Wave, Virement bancaire?", type: "select", required: true, options: ["Oui", "Non"] },
@@ -315,7 +315,7 @@ const formConfigs: Record<string, Array<{
       ]
     },
     {
-      section: "BESOINS SETAL",
+      section: "BESOINS S.E.T.A.L.",
       fields: [
         { id: "sitesToIntegrate", label: "Nombre de sites à intégrer", type: "number", required: true },
         { id: "employeeChallenges", label: "Challenges employés souhaités ?", type: "select", required: true, options: ["Oui", "Non"] },
@@ -354,7 +354,7 @@ const formConfigs: Record<string, Array<{
       ]
     },
     {
-      section: "BESOINS SETAL",
+      section: "BESOINS S.E.T.A.L.",
       fields: [
         { id: "multiPartyPlatform", label: "Plateforme collaborative multi-parties ?", type: "select", required: true, options: ["Oui", "Non"] },
         { id: "consolidatedReports", label: "Rapports consolidés nécessaires ?", type: "select", required: true, options: ["Oui", "Non"] },

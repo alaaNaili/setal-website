@@ -11,7 +11,7 @@
     "getStarted": "Commencer"
   },
   "hero": {
-"badge": "SETAL – Système Écologique de Traçabilité et d'Assainissement Local",    "titleLine1": "Votre ville,",
+"badge": "S.E.T.A.L. – Système Écologique de Traçabilité et d'Assainissement Local",    "titleLine1": "Votre ville,",
     "titleLine2": "Plus propre ensemble",
     "description": "S.E.T.A.L. connecte les citoyens aux Acteurs & Partenaires pour résoudre les problèmes de déchets urbains. Signalez les problèmes instantanément, suivez les progrès en temps réel et regardez votre communauté se transformer.",
     "googlePlay": "Google Play",
@@ -52,7 +52,7 @@
       },
       "impactMap": {
         "title": "Carte d'impact de la ville",
-        "description": "Visualisez tous les problèmes résolus dans votre région. Voyez l'impact collectif de la participation citoyenne.",
+        "description": "Visualisez tous les problèmes résolus dans votre quartier. Voyez l'impact collectif de la participation citoyenne.",
         "longDescription": "Explorez une carte interactive présentant tous les problèmes résolus dans votre quartier et dans toute la ville. Regardez votre communauté se transformer au fil du temps et voyez les résultats tangibles de l'engagement civique. La carte fournit des informations sur les zones problématiques et les améliorations en temps réel."
       },
       "communityTogether": {
@@ -170,7 +170,7 @@
       },
       "teamAssignment": {
         "title": "Attribution d'équipe",
-        "description": "Routez automatiquement les problèmes vers les bonnes équipes. Suivez la charge de travail et optimisez les ressources."
+        "description": "Assignez automatiquement les problèmes vers les bonnes équipes. Suivez la charge de travail et optimisez les ressources."
       },
       "analytics": {
         "title": "Analyses de performance",
