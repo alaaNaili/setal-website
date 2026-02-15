@@ -156,9 +156,9 @@ const HowItWorks = () => {
               </div>
 
               {/* Connector line (hidden on last item) */}
-              {index < steps.length - 1 && (
-                <div className="absolute -right-4 top-1/2 hidden h-0.5 w-8 bg-gradient-to-r from-primary/50 to-transparent md:block" />
-              )}
+              {/* {index < steps.length - 1 && (
+                <div className="absolute -right-8 top-1/3 hidden h-0.5 w-8 bg-gradient-to-r from-primary/50 to-transparent md:block" />
+              )} */}
             </div>
           ))}
         </div>

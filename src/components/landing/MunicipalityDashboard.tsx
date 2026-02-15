@@ -70,9 +70,9 @@ const MunicipalityDashboard = () => {
               {/* Report list mockup */}
               <div className="space-y-2">
                 {[
-                  { type: t('municipalityDashboard.reportTypes.illegalDumping'), location: "Park Ave & 5th", time: t('municipalityDashboard.timeAgo.min5'), priority: "high" },
-                  { type: t('municipalityDashboard.reportTypes.overflowingBin'), location: "Central Market", time: t('municipalityDashboard.timeAgo.min12'), priority: "medium" },
-                  { type: t('municipalityDashboard.reportTypes.streetLitter'), location: "Beach Road", time: t('municipalityDashboard.timeAgo.min18'), priority: "low" },
+                  { type: t('municipalityDashboard.reportTypes.plastic'), location: "Avenue Bourguiba", time: t('municipalityDashboard.timeAgo.min5'), priority: "high" },
+                  { type: t('municipalityDashboard.reportTypes.organic'), location: "Marché Sandaga", time: t('municipalityDashboard.timeAgo.min12'), priority: "medium" },
+                  { type: t('municipalityDashboard.reportTypes.construction'), location: "Plateau", time: t('municipalityDashboard.timeAgo.min18'), priority: "low" },
                 ].map((report, index) => (
                   <div
                     key={index}

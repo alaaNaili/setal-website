@@ -11,9 +11,10 @@ const Navbar = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   const navLinks = [
-    { label: t("nav.howItWorks"), href: "#how-it-works" },
-    { label: t("nav.citizens"), href: "#citizens" },
-    { label: t("nav.municipalities"), href: "#municipalities" },
+    { label: t("nav.howItWorks"), href: "/#how-it-works" },
+    { label: t("nav.citizens"), href: "/#citizens" },
+    { label: t("nav.municipalities"), href: "/#municipalities" },
+    { label: t("nav.blog"), href: "/blog" },
     // { label: t("nav.impact"), href: "#impact" },
   ];
 

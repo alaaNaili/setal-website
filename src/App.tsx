@@ -8,7 +8,8 @@ import NotFound from "./pages/NotFound";
 import HelpPage from "./pages/Help";
 import EntitySelection from "./pages/EntitySelection";
 import Questionnaire from "./pages/Questionnaire";
-
+import Blog from "./components/blog/Blog";
+import BlogPost from "./components/blog/Blogpost";
 
 const queryClient = new QueryClient();
 
@@ -21,9 +22,11 @@ const App = () => (
         <Routes>
           <Route path="/" element={<Index />} />
           <Route path="/Help" element={<HelpPage />} />
+          <Route path="/blog" element={<Blog />} />
+          <Route path="/blog/:slug" element={<BlogPost />} />
+          <Route path="/entity-selection" element={<EntitySelection />} />
+          <Route path="/questionnaire/:entityType" element={<Questionnaire />} />
           <Route path="*" element={<NotFound />} />
-           <Route path="/entity-selection" element={<EntitySelection />} />
-        <Route path="/questionnaire/:entityType" element={<QuestionnaireETA />} />
         </Routes>
       </BrowserRouter>
     </TooltipProvider>

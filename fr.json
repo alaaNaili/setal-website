@@ -6,16 +6,18 @@
     "citizens": "Pour les citoyens",
     "municipalities": "Pour les acteurs & partenaires",
     "impact": "Impact",
+    "blog": "Actualités",
     "help": "Aide",
     "contact": "Contact",
     "getStarted": "Commencer"
   },
   "hero": {
-"badge": "S.E.T.A.L. – Système Écologique de Traçabilité et d'Assainissement Local",    "titleLine1": "Votre ville,",
+    "badge": "S.E.T.A.L. – Système Écologique de Traçabilité et d'Assainissement Local",
+    "titleLine1": "Votre ville,",
     "titleLine2": "Plus propre ensemble",
     "description": "S.E.T.A.L. connecte les citoyens aux Acteurs & Partenaires pour résoudre les problèmes de déchets urbains. Signalez les problèmes instantanément, suivez les progrès en temps réel et regardez votre communauté se transformer.",
     "googlePlay": "Google Play",
-    "documentation": "Documentations",
+    "documentation": "Fonctionalités",
     "imageAlt": "Citoyen signalant et équipe municipale résolvant les problèmes de déchets",
     "trustIndicators": {
       "free": "Gratuit",
@@ -85,10 +87,10 @@
       "description": "Vous voyez des déchets ou un problème urbain ? Prenez une photo, sélectionnez une catégorie et soumettez en quelques secondes. Votre localisation est automatiquement capturée.",
       "submitButton": "Soumettre"
     },
-   "step2": {
-  "title": "Assignation et suivi opérationnel",
-  "description": "Le signalement est reçu par l'administration, qui l'assigne à un agent disponible. Le système permet un suivi en temps réel des déplacements et de l'avancement de l'intervention."
-},
+    "step2": {
+      "title": "Assignation et suivi opérationnel",
+      "description": "Le signalement est reçu par l'administration, qui l'assigne à un agent disponible. Le système permet un suivi en temps réel des déplacements et de l'avancement de l'intervention."
+    },
     "step3": {
       "title": "Problème résolu",
       "description": "L'équipe intervient et vous êtes notifié. Consultez les photos avant et après et évaluez la résolution.",
@@ -162,7 +164,7 @@
     "badge": "Pour les Acteurs & Partenaires de S.E.T.A.L.",
     "titlePart1": "Transformez votre",
     "titlePart2": "gestion des déchets",
-    "subtitle": "S.E.T.A.L. fournit à ses partenaires des outils puissants pour gérer les signalements des citoyens, optimiser les flux de travail des équipes et apporter des améliorations mesurables à la propreté de la ville.",
+    "subtitle": "S.E.T.A.L. fournit à ses partenaires des outils puissants pour gérer les signalements des citoyens, optimiser les flux de travail des équipes et apporter des améliorations mesurables à la propreté urbaine.",
     "features": {
       "centralized": {
         "title": "Gestion centralisée",
@@ -170,11 +172,11 @@
       },
       "teamAssignment": {
         "title": "Attribution d'équipe",
-        "description": "Assignez automatiquement les problèmes vers les bonnes équipes. Suivez la charge de travail et optimisez les ressources."
+        "description": "Assignez automatiquement les collectes aux bonnes équipes. Suivez la charge de travail et optimisez les ressources."
       },
       "analytics": {
         "title": "Analyses de performance",
-        "description": "Mesurez les temps de réponse, les taux de résolution et la satisfaction des citoyens en temps réel."
+        "description": "Mesurez les temps de réponse, les taux de collecte et la satisfaction des citoyens en temps réel."
       },
       "slaTracking": {
         "title": "Suivi des SLA",
@@ -183,19 +185,20 @@
     },
     "dashboard": {
       "title": "Tableau de bord municipal",
-      "cityExample": "Ville de Springfield",
+      "cityExample": "Ville de Dakar",
       "live": "En direct"
     },
     "stats": {
       "active": "Actifs",
       "inProgress": "En cours",
-      "resolvedToday": "Résolus aujourd'hui",
+      "resolvedToday": "Collectés aujourd'hui",
       "satisfaction": "Satisfaction"
     },
     "reportTypes": {
-      "illegalDumping": "Décharge illégale",
-      "overflowingBin": "Benne débordante",
-      "streetLitter": "Détritus de rue"
+      "plastic": "Déchets plastiques",
+      "organic": "Déchets organiques",
+      "construction": "Déchets de construction",
+      "hazardous": "Déchets dangereux"
     },
     "timeAgo": {
       "min5": "Il y a 5 min",
@@ -233,7 +236,7 @@
   "finalCTA": {
     "titlePart1": "Prêt à rendre votre ville",
     "titlePart2": "plus propre ?",
-     "forCitizens": {
+    "forCitizens": {
       "heading": "Pour les citoyens",
       "description": "Téléchargez l'application et commencez à signaler les problèmes dans votre quartier dès aujourd'hui."
     },
@@ -332,7 +335,7 @@
     "close": "Fermer",
     "yes": "Oui",
     "no": "Non",
-   "back": "Retour"
+    "back": "Retour"
   },
   "entitySelection": {
     "title": "NOS PARTENAIRES POUR UN PAYS PLUS PROPRE",
@@ -360,6 +363,33 @@
     "success": {
       "title": "Formulaire envoyé avec succès !",
       "message": "Nous vous contacterons bientôt. Redirection en cours..."
+    }
+  },
+  "blog": {
+    "badge": "Actualités",
+    "title": "Actualités",
+    "subtitle": "& Nouvelles",
+    "description": "Restez informé des dernières nouvelles, mises à jour et histoires de notre communauté",
+    "noPosts": "Aucun article disponible",
+    "noPostsDescription": "Revenez bientôt pour de nouvelles actualités!",
+    "retry": "Réessayer",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "minRead": "min",
+    "readMore": "Lire plus",
+    "backToBlog": "Retour aux actualités",
+    "postNotFound": "Article non trouvé",
+    "postNotFoundDescription": "L'article que vous recherchez n'existe pas ou a été supprimé.",
+    "goBack": "Retour",
+    "viewAllPosts": "Voir tous les articles",
+    "share": "Partager",
+    "shareArticle": "Partager cet article",
+    "categories": {
+      "all": "Tous",
+      "news": "Actualités",
+      "updates": "Mises à jour",
+      "community": "Communauté",
+      "success": "Succès"
     }
   }
 }

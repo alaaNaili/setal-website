@@ -6,16 +6,18 @@
     "citizens": "For Citizens",
     "municipalities": "For Partners",
     "impact": "Impact",
+    "blog": "Blog",
     "help": "Help",
     "contact": "Contact",
     "getStarted": "Get Started"
   },
   "hero": {
-"badge": "S.E.T.A.L. – Smart Environmental Tracking and Location",   "titleLine1": "Your city,",
+    "badge": "S.E.T.A.L. – Smart Environmental Tracking and Location",
+    "titleLine1": "Your city,",
     "titleLine2": "Cleaner together",
     "description": "S.E.T.A.L. connects citizens with entities to solve urban waste issues. Report problems instantly, track progress in real time, and watch your community transform.",
     "googlePlay": "Google Play",
-    "documentation": "Documentation",
+    "documentation": "Functionalities",
     "imageAlt": "Citizen reporting and municipal team resolving waste issues",
     "trustIndicators": {
       "free": "Free",
@@ -159,10 +161,10 @@
     }
   },
   "municipalityDashboard": {
-    "badge": "For S.E.T.A.L. Partners",
+    "badge": "For S.E.T.A.L. Partners & Stakeholders",
     "titlePart1": "Transform your",
     "titlePart2": "waste management",
-    "subtitle": "S.E.T.A.L. provides partners with powerful tools to manage citizen reports, optimize team workflows, and deliver measurable improvements in city cleanliness.",
+    "subtitle": "S.E.T.A.L. provides partners with powerful tools to manage citizen reports, optimize team workflows, and deliver measurable improvements in urban cleanliness.",
     "features": {
       "centralized": {
         "title": "Centralized management",
@@ -170,11 +172,11 @@
       },
       "teamAssignment": {
         "title": "Team assignment",
-        "description": "Automatically route issues to the right teams. Track workload and optimize resources."
+        "description": "Automatically route waste collections to the right teams. Track workload and optimize resources."
       },
       "analytics": {
         "title": "Performance analytics",
-        "description": "Measure response times, resolution rates, and citizen satisfaction in real time."
+        "description": "Measure response times, collection rates, and citizen satisfaction in real time."
       },
       "slaTracking": {
         "title": "SLA tracking",
@@ -183,19 +185,20 @@
     },
     "dashboard": {
       "title": "Municipal dashboard",
-      "cityExample": "City of Springfield",
+      "cityExample": "City of Dakar",
       "live": "Live"
     },
     "stats": {
       "active": "Active",
       "inProgress": "In progress",
-      "resolvedToday": "Resolved today",
+      "resolvedToday": "Collected today",
       "satisfaction": "Satisfaction"
     },
     "reportTypes": {
-      "illegalDumping": "Illegal dumping",
-      "overflowingBin": "Overflowing bin",
-      "streetLitter": "Street litter"
+      "plastic": "Plastic waste",
+      "organic": "Organic waste",
+      "construction": "Construction waste",
+      "hazardous": "Hazardous waste"
     },
     "timeAgo": {
       "min5": "5 min ago",
@@ -347,6 +350,33 @@
     "success": {
       "title": "Form submitted successfully!",
       "message": "We will contact you soon. Redirecting..."
+    }
+  },
+  "blog": {
+    "badge": "News",
+    "title": "News",
+    "subtitle": "& Updates",
+    "description": "Stay informed with the latest news, updates, and stories from our community",
+    "noPosts": "No posts available",
+    "noPostsDescription": "Check back soon for new updates!",
+    "retry": "Retry",
+    "previous": "Previous",
+    "next": "Next",
+    "minRead": "min",
+    "readMore": "Read more",
+    "backToBlog": "Back to news",
+    "postNotFound": "Post not found",
+    "postNotFoundDescription": "The post you are looking for does not exist or has been removed.",
+    "goBack": "Go back",
+    "viewAllPosts": "View all posts",
+    "share": "Share",
+    "shareArticle": "Share this article",
+    "categories": {
+      "all": "All",
+      "news": "News",
+      "updates": "Updates",
+      "community": "Community",
+      "success": "Success"
     }
   }
 }
