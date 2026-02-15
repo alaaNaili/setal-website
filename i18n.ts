@@ -5,12 +5,11 @@ import LanguageDetector from 'i18next-browser-languagedetector';
 import enTranslations from './en.json';
 import frTranslations from './fr.json';
 
+const hasStoredLanguage = localStorage.getItem("i18nextLng");
+
 i18n
-  // Detect user language
   .use(LanguageDetector)
-  // Pass the i18n instance to react-i18next
   .use(initReactI18next)
-  // Initialize i18next
   .init({
     resources: {
       en: {
@@ -20,7 +19,8 @@ i18n
         translation: frTranslations,
       },
     },
-    fallbackLng: 'en',
+    fallbackLng: 'fr',
+    lng: hasStoredLanguage ? undefined : "fr",
     debug: false,
     interpolation: {
       escapeValue: false, // React already escapes values

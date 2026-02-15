@@ -23,7 +23,7 @@ const App = () => (
           <Route path="/Help" element={<HelpPage />} />
           <Route path="*" element={<NotFound />} />
            <Route path="/entity-selection" element={<EntitySelection />} />
-        <Route path="/questionnaire/:entityType" element={<Questionnaire />} />
+        <Route path="/questionnaire/:entityType" element={<QuestionnaireETA />} />
         </Routes>
       </BrowserRouter>
     </TooltipProvider>
