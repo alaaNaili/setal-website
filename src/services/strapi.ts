@@ -1,4 +1,4 @@
-const STRAPI_URL = 'http://localhost:1337';
+const STRAPI_URL = 'https://blog.setal.app';
 
 export interface BlogPost {
   id: number;
@@ -52,7 +52,8 @@ export async function getBlogPosts(
       'pagination[page]': page.toString(),
       'pagination[pageSize]': pageSize.toString(),
       'sort[0]': 'publishedAt:desc',
-      'populate': '*',
+      'populate[0]': 'imagePrincipale',
+      'populate[1]': 'category',
       'publicationState': 'live',
     });
 
@@ -76,7 +77,8 @@ export async function getBlogPost(slug: string): Promise<BlogPost | null> {
   try {
     const params = new URLSearchParams({
       'filters[slug][$eq]': slug,
-      'populate': '*',
+      'populate[0]': 'imagePrincipale',
+      'populate[1]': 'category',
       'publicationState': 'live',
     });
 
